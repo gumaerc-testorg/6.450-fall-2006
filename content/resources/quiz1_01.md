@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Practice Quiz 1 from Fall 2001.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-450-principles-of-digital-communications-i-fall-2006/dfa661029fc388713bc0576d6d63dcd0_quiz1_01.pdf
+file: /media/courses/6-450-principles-of-digital-communications-i-fall-2006/dfa661029fc388713bc0576d6d63dcd0_quiz1_01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz1_01.pdf
 uid: dfa66102-9fc3-8871-3bc0-576d6d63dcd0

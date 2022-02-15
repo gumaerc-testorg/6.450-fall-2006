@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-450-principles-of-digital-communications-i-fall-2006/283afebc968c98656232999e22fa5517_8PScXRfu2po.pdf
+file: /media/courses/6-450-principles-of-digital-communications-i-fall-2006/283afebc968c98656232999e22fa5517_8PScXRfu2po.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 283afebc-968c-9865-6232-999e22fa5517
