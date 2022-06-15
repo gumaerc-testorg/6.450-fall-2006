@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about prerequisites, text and handouts, problem sets, exams, course grade, reference
+  texts, recommended citation, and a schedule of lecture topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +31,7 @@ Prerequisites
 Text and Handouts
 -----------------
 
-The only required text for the course is the provided manuscript in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section.
+The only required text for the course is the provided manuscript in the {{% resource_link 40b7f46c-3dad-30d1-da1c-a5e3d9c2ac0a "lecture notes" %}} section.
 
 ### Course Handouts
 

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the course exams and practice quizzes with solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -28,10 +29,10 @@ SOLUTIONS
 Fall 2006
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz1_06))
+Quiz 1 ({{% resource_link 4a1b0621-7f61-211e-0327-4a334fd6075d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quiz1_06_soln))
+({{% resource_link 72099309-a4b0-7886-b368-f6a9cf2929bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,10 +41,10 @@ Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz1_06))
 Fall 2006
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz 2 ([PDF]({{< baseurl >}}/resources/quiz2_06))
+Quiz 2 ({{% resource_link 720e53f9-a645-2b78-d518-c9c4d6278e01 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quiz2_06_soln))
+({{% resource_link fddf9f0d-9324-3be0-e6f3-2e22a98c7525 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,10 +59,10 @@ Quiz 2 ([PDF]({{< baseurl >}}/resources/quiz2_06))
 Fall 2004
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz1_04))
+Quiz 1 ({{% resource_link 541f139f-69d7-03f4-0190-55fd7bdf1ed2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quiz1_04_soln))
+({{% resource_link c59828b4-e470-fd50-daf3-1f0f7251456c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,10 +71,10 @@ Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz1_04))
 Fall 2003
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz1_03))
+Quiz 1 ({{% resource_link 608f763c-a2d0-299a-1db1-13030497d901 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quiz1_03_soln))
+({{% resource_link df9dead1-e6df-2786-ec07-5e250a4091d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,10 +83,10 @@ Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz1_03))
 Fall 2001
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz1_01))
+Quiz 1 ({{% resource_link dfa66102-9fc3-8871-3bc0-576d6d63dcd0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quiz1_01_soln))
+({{% resource_link d49d734a-5864-4bde-c600-4b6e13576809 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

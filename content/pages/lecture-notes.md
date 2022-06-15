@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
  
 {{< tdclose >}}
 {{< tdopen >}}
-Preface and table of contents ([PDF]({{< baseurl >}}/resources/front_matter))
+Preface and table of contents ({{% resource_link e98ec116-bb4d-0e83-916b-2f92861e48e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Preface and table of contents ([PDF]({{< baseurl >}}/resources/front_matter))
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to digital communication ([PDF]({{< baseurl >}}/resources/book_1))
+Introduction to digital communication ({{% resource_link 2c67a3e5-fa69-10d3-7860-3d582c6efab8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Introduction to digital communication ([PDF]({{< baseurl >}}/resources/book_1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Coding for discrete sources ([PDF]({{< baseurl >}}/resources/book_2))
+Coding for discrete sources ({{% resource_link 5fd6b5c8-39a7-6dd0-c52d-8480c3dad224 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Coding for discrete sources ([PDF]({{< baseurl >}}/resources/book_2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Quantization ([PDF]({{< baseurl >}}/resources/book_3))
+Quantization ({{% resource_link 926689aa-a62a-0315-473f-a9b982de1b07 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Quantization ([PDF]({{< baseurl >}}/resources/book_3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Source and channel waveforms ([PDF - 1.1 MB]({{< baseurl >}}/resources/book_4))
+Source and channel waveforms ({{% resource_link d702e3dc-1111-be9a-ecf7-4c2ca711d934 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Source and channel waveforms ([PDF - 1.1 MB]({{< baseurl >}}/resources/book_4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Vector spaces and signal space ([PDF]({{< baseurl >}}/resources/book_5))
+Vector spaces and signal space ({{% resource_link 90bcfef4-0894-c3a1-7214-902ff29c3d98 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Vector spaces and signal space ([PDF]({{< baseurl >}}/resources/book_5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Channels, modulation, and demodulation ([PDF]({{< baseurl >}}/resources/book_6))
+Channels, modulation, and demodulation ({{% resource_link 1e8d60eb-6c0a-68cc-48e8-1af039fd4af6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ Channels, modulation, and demodulation ([PDF]({{< baseurl >}}/resources/book_6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Random processes and noise ([PDF - 1.0 MB]({{< baseurl >}}/resources/book_7))
+Random processes and noise ({{% resource_link 49163236-e207-79ba-e416-39ff9dec1ac4 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Random processes and noise ([PDF - 1.0 MB]({{< baseurl >}}/resources/book_7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Detection, coding, and decoding ([PDF - 1.1 MB]({{< baseurl >}}/resources/book_8))
+Detection, coding, and decoding ({{% resource_link f6c75b42-7b02-2503-f5c6-05db7de4d46f "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Detection, coding, and decoding ([PDF - 1.1 MB]({{< baseurl >}}/resources/book_8
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Wireless digital communication ([PDF - 1.0 MB]({{< baseurl >}}/resources/book_9))
+Wireless digital communication ({{% resource_link f8ed1cb4-abc0-b50d-10c0-e5974c1875ce "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Wireless digital communication ([PDF - 1.0 MB]({{< baseurl >}}/resources/book_9)
  
 {{< tdclose >}}
 {{< tdopen >}}
-Bibliography ([PDF]({{< baseurl >}}/resources/bibliography))
+Bibliography ({{% resource_link b261d093-9990-774c-597b-f5fde3341a68 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
