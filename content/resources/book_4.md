@@ -5,6 +5,7 @@ file: /courses/6-450-principles-of-digital-communications-i-fall-2006/d702e3dc11
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: book_4.pdf
 uid: d702e3dc-1111-be9a-ecf7-4c2ca711d934
 ---
 Lecture notes on Chapter 4 of the course text: Source and channel waveforms.
-

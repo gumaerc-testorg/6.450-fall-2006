@@ -5,6 +5,7 @@ file: /courses/6-450-principles-of-digital-communications-i-fall-2006/926689aaa6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: book_3.pdf
 uid: 926689aa-a62a-0315-473f-a9b982de1b07
 ---
 Lecture notes on Chapter 3 of the course text: Quantization.
-

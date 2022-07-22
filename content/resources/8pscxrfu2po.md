@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/853c31a560c4caf636789f58718f5c31_8PScXRfu2po.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

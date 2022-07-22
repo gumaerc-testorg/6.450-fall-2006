@@ -5,6 +5,7 @@ file: /courses/6-450-principles-of-digital-communications-i-fall-2006/c59828b4e4
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz1_04_soln.pdf
 uid: c59828b4-e470-fd50-daf3-1f0f7251456c
 ---
 Solutions to Quiz 1.
-

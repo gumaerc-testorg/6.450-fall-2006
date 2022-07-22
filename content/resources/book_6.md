@@ -6,6 +6,7 @@ file: /courses/6-450-principles-of-digital-communications-i-fall-2006/1e8d60eb6c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: book_6.pdf
 uid: 1e8d60eb-6c0a-68cc-48e8-1af039fd4af6
 ---
 Lecture notes on Chapter 6 of the course text: Channels, modulation, and demodulation.
-

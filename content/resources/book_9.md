@@ -5,6 +5,7 @@ file: /courses/6-450-principles-of-digital-communications-i-fall-2006/f8ed1cb4ab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: book_9.pdf
 uid: f8ed1cb4-abc0-b50d-10c0-e5974c1875ce
 ---
 Lecture notes on Chapter 9 of the course text: Wireless digital communication.
-

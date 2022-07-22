@@ -6,6 +6,7 @@ file: /courses/6-450-principles-of-digital-communications-i-fall-2006/2c67a3e5fa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: book_1.pdf
 uid: 2c67a3e5-fa69-10d3-7860-3d582c6efab8
 ---
 Lecture notes on Chapter 1 of the course text: Introduction to Digital Communication.
-

@@ -6,6 +6,7 @@ file: /courses/6-450-principles-of-digital-communications-i-fall-2006/f6c75b427b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: book_8.pdf
 uid: f6c75b42-7b02-2503-f5c6-05db7de4d46f
 ---
 Lecture notes on Chapter 8 of the course text: Detection, coding, and decoding.
-
