@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to Quiz 1.
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/d49d734a58644bdec6004b6e13576809_quiz1_01_soln.pdf
+file_size: 198902
 file_type: application/pdf
 learning_resource_types:
 - Exams

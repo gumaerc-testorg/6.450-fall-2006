@@ -2,6 +2,7 @@
 content_type: resource
 description: Extra problem for Problem Set 4.
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/de219639bd8ba5bd405cbdf3e7e97201_ps4.pdf
+file_size: 64699
 file_type: application/pdf
 learning_resource_types:
 - Assignments

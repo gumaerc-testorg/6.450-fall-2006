@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Chapter 2 of the course text: Coding for Discrete Sources.'
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/5fd6b5c839a76dd0c52d8480c3dad224_book_2.pdf
+file_size: 885810
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
