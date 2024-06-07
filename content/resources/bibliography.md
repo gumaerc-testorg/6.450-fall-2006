@@ -2,6 +2,7 @@
 content_type: resource
 description: The bibliography for the course lecture notes.
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/b261d0939990774c597bf5fde3341a68_bibliography.pdf
+file_size: 62012
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

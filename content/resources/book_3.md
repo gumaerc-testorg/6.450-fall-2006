@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Chapter 3 of the course text: Quantization.'
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/926689aaa62a0315473fa9b982de1b07_book_3.pdf
+file_size: 496077
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

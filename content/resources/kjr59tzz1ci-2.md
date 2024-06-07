@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/313f33eef6a6504e887367d5df0583e6_kJR59TZz1CI.vtt
+file_size: 104219
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
