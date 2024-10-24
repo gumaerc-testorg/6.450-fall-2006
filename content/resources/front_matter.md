@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Preface and table of contents for the course lecture notes.
-file: /courses/6-450-principles-of-digital-communications-i-fall-2006/e98ec116bb4d0e83916b2f92861e48e5_front_matter.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communications-i-fall-2006/e98ec116bb4d0e83916b2f92861e48e5_front_matter.pdf
 file_size: 256789
 file_type: application/pdf
 learning_resource_types:
