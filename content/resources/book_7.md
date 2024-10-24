@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Chapter 7 of the course text: Random processes and
   noise.'
-file: /courses/6-450-principles-of-digital-communications-i-fall-2006/49163236e20779bae41639ff9dec1ac4_book_7.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communications-i-fall-2006/49163236e20779bae41639ff9dec1ac4_book_7.pdf
 file_size: 1023791
 file_type: application/pdf
 learning_resource_types:

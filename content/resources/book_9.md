@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture notes on Chapter 9 of the course text: Wireless digital communication.'
-file: /courses/6-450-principles-of-digital-communications-i-fall-2006/f8ed1cb4abc0b50d10c0e5974c1875ce_book_9.pdf
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communications-i-fall-2006/f8ed1cb4abc0b50d10c0e5974c1875ce_book_9.pdf
 file_size: 1070791
 file_type: application/pdf
 learning_resource_types:
