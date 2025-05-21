@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice Quiz 1 from Fall 2004.
-file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communications-i-fall-2006/541f139f69d703f4019055fd7bdf1ed2_quiz1_04.pdf
+file: /courses/6-450-principles-of-digital-communications-i-fall-2006/541f139f69d703f4019055fd7bdf1ed2_quiz1_04.pdf
 file_size: 68042
 file_type: application/pdf
 learning_resource_types:
