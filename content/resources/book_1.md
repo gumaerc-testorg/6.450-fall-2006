@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Chapter 1 of the course text: Introduction to Digital
   Communication.'
-file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communications-i-fall-2006/2c67a3e5fa6910d378603d582c6efab8_book_1.pdf
+file: /courses/6-450-principles-of-digital-communications-i-fall-2006/2c67a3e5fa6910d378603d582c6efab8_book_1.pdf
 file_size: 288444
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Chapter 8 of the course text: Detection, coding, and
   decoding.'
-file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communications-i-fall-2006/f6c75b427b022503f5c605db7de4d46f_book_8.pdf
+file: /courses/6-450-principles-of-digital-communications-i-fall-2006/f6c75b427b022503f5c605db7de4d46f_book_8.pdf
 file_size: 1125892
 file_type: application/pdf
 learning_resource_types:
