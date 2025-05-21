@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture notes on Chapter 4 of the course text: Source and channel waveforms.'
-file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communications-i-fall-2006/d702e3dc1111be9aecf74c2ca711d934_book_4.pdf
+file: /courses/6-450-principles-of-digital-communications-i-fall-2006/d702e3dc1111be9aecf74c2ca711d934_book_4.pdf
 file_size: 1137165
 file_type: application/pdf
 learning_resource_types:
