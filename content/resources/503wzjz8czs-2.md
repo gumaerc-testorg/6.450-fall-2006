@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-450-principles-of-digital-communications-i-fall-2006/39ec6a0c1de25ccab23f413a77a4cb24_503wzjz8czs.vtt
+file: /ol-ocw-studio-app/courses/6-450-principles-of-digital-communications-i-fall-2006/39ec6a0c1de25ccab23f413a77a4cb24_503wzjz8czs.vtt
 file_size: 103210
 file_type: application/x-subrip
 learning_resource_types: []
